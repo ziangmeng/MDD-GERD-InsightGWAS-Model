@@ -15,7 +15,7 @@ Execute the scripts in the following order:
    python 1_train_model.py
    ```
 
-2. **Perform transfer learning using MA data**:
+2. **Perform transfer learning using GERD data**:
    ```bash
    python 2_transform_learning_model.py
    ```
