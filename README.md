@@ -12,7 +12,6 @@ Execute the scripts in the following order:
 
 1. **Train the initial model on MDD data**:
    ```bash
-   cd MA-MDD-Transformer-based-model
    python 1_train_model.py
    ```
 
