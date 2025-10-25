@@ -2,7 +2,7 @@
 # InsightGWAS: MDD-GERD Transformer-Based Model for GWAS Analysis
 
 ## Overview
-![Image text](fb59cf7aed8f14eb0969786ca29a449.jpg)
+![Image text](fig1.png)
 InsightGWAS is a Transformer-based deep learning framework designed to prioritize genetic variants associated with complex diseases using **genome-wide association studies (GWAS) summary statistics** and **multi-modal genomic annotations**. The repository provides MDD-GERD Transformer Model:
 
 **MDD-GERD Transformer Model**: Pre-trained on Major Depressive Disorder (MDD) GWAS data and fine-tuned on Gastroesophageal Reflux Disease (GERD) data.
